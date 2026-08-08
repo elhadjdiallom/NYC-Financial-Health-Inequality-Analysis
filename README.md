@@ -30,8 +30,7 @@ Data Visualization
 # Dashboard
 
  Interactive Tableau Dashboard:
-https://public.tableau.com/views/WhichNYCneighborhoodsaremostfinanciallyvulnerable/NYCFinancialVulnerabilityAnalysis
-
+ [NYC Financial Health Dashboard](https://public.tableau.com/app/profile/elhadj.diallo1157/viz/NYCFinancialHealthInequalityDashboard_final_draft_17826570216730/NYCFinancialVulnerability_final_draft)
 # Key Insights
 
 The Bronx consistently shows lower financial health scores compared to other boroughs.
